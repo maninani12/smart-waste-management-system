@@ -1,0 +1,13 @@
+.venv/
+.env
+*.db
+*.db-*
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+dist/
+data/
+*.log
+demo-access.txt
+*.tsbuildinfo
